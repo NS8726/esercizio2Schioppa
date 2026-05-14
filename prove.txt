@@ -1,0 +1,2 @@
+I branch in Git servono per lavorare su nuove funzionalità senza modificare il progetto principale.
+Permettono di fare esperimenti in modo sicuro e separato.
