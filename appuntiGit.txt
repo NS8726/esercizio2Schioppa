@@ -1,0 +1,3 @@
+git fetch → scarica gli aggiornamenti dal remoto senza applicarli
+git pull → scarica gli aggiornamenti e li applica
+git push → invia i tuoi commit locali al repository remoto
